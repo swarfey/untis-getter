@@ -1,0 +1,35 @@
+{
+	"D": {
+		"name": "Deutsch",
+		"items": ["Deutschbuch", "Deutschheft"]
+	},
+	"E": {
+		"name": "Englisch",
+		"items": ["Englisch Wörterbuch"]
+	},
+	"MU":  {"name": "Musik", "items": ["Musikbuch", "Notenheft"]},
+	"KU": {"name": "Kunst", "items": ["DINA3 Zeichenblock"]},
+	"GE": {
+		"name": "Geschichte",
+		"items": []
+	},
+	"SW": {"name": "SoWi", "items": ["SoWi Buch", "Ordner"]},
+	"ER": {
+		"name": "Religion",
+		"items": []
+	},
+	"M": {"name": "Mathe", "items": ["Matheheft", "Mathebuch", "Taschenrechner", "Geodreieck"]},
+	"PH": {
+		"name": "Physik",
+		"items": ["Physikbuch", "Taschenrechner"]
+	},
+	"IF": {
+		"name": "Informatik",
+		"items": []
+	},
+	"SP": {
+		"name": "Sport",
+		"items": ["Sportsachen"]
+	},
+	"default": ["Ordner", "College Block kariert/liniert", "Wasser", "Federmappe"]
+}
